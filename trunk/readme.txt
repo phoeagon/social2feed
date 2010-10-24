@@ -7,7 +7,7 @@ blog : http://blog.qooza.hk/phoeagon
 Introduction:
 This project tends to generate feeds for a given account on some famous and widely-used Web2.0 sites. As it's often the case, lots of netizens have accounts on various of social networks and are "following" others on them too. Unfortunately lots of Chinese social website provide no RSS or json interface, which make synchronizing among them rather difficult.
 
-	°ÑÄãµÄ ÈËÈË ¶¹°ê QQÇ©Ãû Ê²Ã´µÄ£¬Í¨Í¨ÉÕ³ÉRSS£¡
+	æŠŠä½ çš„ äººäºº è±†ç“£ QQç­¾å ä»€ä¹ˆçš„ï¼Œé€šé€šçƒ§æˆRSSï¼
 
 
 Known Bugs:
